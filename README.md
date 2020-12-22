@@ -495,7 +495,7 @@ There are disabled tests for MySQL and Postgres DB backends. To run them:
 ## EulerHS tutorials and template projects
 
 * [Tutorial](./TUTORIAL.md)
-* [Beam query examples](./lib/euler-hs/testDB/SQLDB/Tests/QueryExamplesSpec.hs)
+* [Beam query examples](./testDB/SQLDB/Tests/QueryExamplesSpec.hs)
 * Demo project (**coming soon**)
 
 ## Background materials
